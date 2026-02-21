@@ -1,1 +1,2 @@
-# Random-number
+# Python
+# Just python

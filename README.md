@@ -1,2 +1,2 @@
 # Python
-# Just python
+Just python
